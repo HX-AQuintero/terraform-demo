@@ -179,7 +179,7 @@ Created: March 4, 2023 11:10 AM
     
     Cada bloque tiene un tipo, por ejemplo, *********provider********* y *******resource,******* luego de este tipo, hay una etiqueta, por ejemplo, *******************“aws”, “aws_vpc”, “aws_main_vpc”.*******************  Pueden haber también bloques que no poseen etiquetas.
     Dentro de cada bloque, podemos encontrar argumentos y sus valores luego del igual. Estos pueden contener también letras, dígitos, guiones y guiones bajos.
-    Los comentarios de una sola línea se realizan con el símbolo *******************#******************* (predeterminado) **************************************o también con *//*. Si hay más de una línea, se usa *******************/* */*******************
+    Los comentarios de una sola línea se realizan con el símbolo *******************#******************* (predeterminado) o también con *//*. Si hay más de una línea, se usa *******************/* */*******************
     
     ![Untitled](img/Untitled%207.png)
     
